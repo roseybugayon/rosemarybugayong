@@ -14,7 +14,7 @@ The website is designed to provide potential employers and collaborators with an
 
 ## How to View
 
-You can visit my website at: [https://yourwebsite.com](https://yourwebsite.com)
+You can visit my website at: [https://rosemarybugayong.web.app/](https://rosemarybugayong.web.app/)
 
 For any issues or contributions, feel free to open a pull request or contact me directly.
 
